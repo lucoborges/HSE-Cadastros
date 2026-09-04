@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HSE-Cadastros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+289906faad507e60049b250830b92a0e507c89ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e4d1515c7ab993ae8d164a9798e2ce1cad689eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("HSE-Cadastros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HSE-Cadastros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
